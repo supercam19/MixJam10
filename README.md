@@ -6,7 +6,7 @@ Exploit the resources of an asteroid and sell the materials to purchase upgrades
 This game was made for the MixJam10 game jam which lasted for one week. The prompts for this game were: asteroids, treasure, mutants.
 
 
--- Controls --
+## Controls
 
 W/A/S/D - Directional Movement
 
@@ -17,3 +17,7 @@ Left Click - Attack/mine
 Right Click - Interact
 
 Left Shift - Sprint
+
+## License
+
+Everything in this project was made by me and availble under the MIT License, except for all sounds and music, which were retrieved from [Freesound](https://freesounds.org) under the Creative Commons 0 License.
