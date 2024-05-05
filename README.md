@@ -5,6 +5,7 @@ Exploit the resources of an asteroid and sell the materials to purchase upgrades
 
 This game was made for the MixJam10 game jam which lasted for one week. The prompts for this game were: asteroids, treasure, mutants.
 
+Made in the Unity Game Engine with the [NavMeshPlus package](https://github.com/h8man/NavMeshPlus).
 
 ## Controls
 
