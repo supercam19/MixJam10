@@ -20,4 +20,4 @@ Left Shift - Sprint
 
 ## License
 
-Everything in this project was made by me and availble under the MIT License, except for all sounds and music, which were retrieved from [Freesound](https://freesounds.org) under the Creative Commons 0 License.
+Everything in this project was made by me and availble under the MIT License, except for all sounds/music and the Public Pixel font, which were retrieved from [Freesound](https://freesounds.org) under the Creative Commons 0 License and [FontSpace](https://www.fontspace.com/public-pixel-font-f72305) under the Public Domain License respectively.
